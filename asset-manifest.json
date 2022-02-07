@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/toxicity-checker/static/css/main.d8c150b8.css",
+    "main.js": "/toxicity-checker/static/js/main.4c3969b2.js",
+    "index.html": "/toxicity-checker/index.html",
+    "main.d8c150b8.css.map": "/toxicity-checker/static/css/main.d8c150b8.css.map",
+    "main.4c3969b2.js.map": "/toxicity-checker/static/js/main.4c3969b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8c150b8.css",
+    "static/js/main.4c3969b2.js"
+  ]
+}
