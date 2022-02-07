@@ -70,3 +70,4 @@ Temporary Items
 
 # Deep code files
 .dccache
+.env
