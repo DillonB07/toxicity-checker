@@ -1,3 +1,13 @@
+# Toxicity Checker
+
+This project is my attempt at learning React. I will be using Google's Perspective API to check whether a message is toxic or not. Later, I plan to make a live chat site using React and will implement this checking system into it.
+
+I plan to try and do this entirely in JS, but I may add a Flask server for using Perspective.
+
+This is also for me to learn Docker so that I can better manage dependencies and my dev environments!
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
