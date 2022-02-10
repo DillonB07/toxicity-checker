@@ -40,10 +40,9 @@ ReactDOM.render(<Page />, document.getElementById('root'));
 
 // create a function with a parameter of message to call this api endpoint: https://Toxicity-Server.dillonb07.repl.co/api/<message> and return the value
 function getToxicity(message) {
-	console.log(
-		fetch(`https://Toxicity-Server.dillonb07.repl.co/api/${message}`).catch(
-			() => 'Error connecting to the API'
-		)
-	);
-	return fetch(`https://Toxicity-Server.dillonb07.repl.co/api/${message}`);
+	let request = fetch(
+		`https://Toxicity-Server.dillonb07.repl.co/api/${message}`
+	).catch(() => 'Error connecting to the API');
+	console.log(request);
+	return request;
 }
