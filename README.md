@@ -1,3 +1,5 @@
+> Apparently I never got this finished. Maybe sometime in the future, but for now I'm archiving it
+
 # Toxicity Checker
 
 This project is my attempt at learning React. I will be using Google's Perspective API to check whether a message is toxic or not. Later, I plan to make a live chat site using React and will implement this checking system into it.
